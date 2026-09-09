@@ -1,2 +1,1 @@
-<p>Zzz
-</p>
+<img src="./bg.gif" width="100%" />
